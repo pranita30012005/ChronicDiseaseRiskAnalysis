@@ -1,0 +1,1 @@
+[<image-card alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" ></image-card>](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/your_notebook.ipynb)
