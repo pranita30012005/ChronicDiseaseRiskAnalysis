@@ -1,1 +1,4 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranita30012005/ChronicDiseaseRiskAnalysis/blob/main/Day_1_—_Notebook_1_Project_Setup.ipynb)
+<a href="https://colab.research.google.com/github/pranita30012005/ChronicDiseaseRiskAnalysis/blob/main/Day_1_—_Notebook_1_Project_Setup.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
