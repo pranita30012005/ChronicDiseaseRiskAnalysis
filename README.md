@@ -1,1 +1,1 @@
-[<image-card alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" ></image-card>](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/your_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranita30012005/ChronicDiseaseRiskAnalysis/blob/main/Day_1_—_Notebook_1_Project_Setup.ipynb)
