@@ -4,3 +4,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranita30012005/ChronicDiseaseRiskAnalysis/blob/main/Day_2_—_Data_Cleaning_%26_Preprocessing.ipynb) Day 2: Data Cleaning & Preprocessing
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranita30012005/ChronicDiseaseRiskAnalysis/blob/main/Day_3_EDA_on_Diabetes_Risk_Dataset_.ipynb) Day 3: EDA on Diabetes Risk Dataset
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranita30012005/ChronicDiseaseRiskAnalysis/blob/main/Day_04%20Feature_engineering.ipynb) Day 4: Feature Engineering
